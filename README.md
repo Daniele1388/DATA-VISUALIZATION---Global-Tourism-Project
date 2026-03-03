@@ -56,7 +56,7 @@ Special attention is given to SDG indicators that contain multiple reporting ser
 ## Project Architecture Overview
 
 ```
-Global Tourism Statistics Project
+Global Tourism Project
 │
 ├── Data Warehouse (DWH)
 ├── Exploratory Data Analysis (EDA)
