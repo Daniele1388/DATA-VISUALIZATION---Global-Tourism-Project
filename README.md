@@ -2,11 +2,11 @@
 
 *Visual exploration of global tourism indicators through structured time-series analysis and comparative charts.*
 
-This repository represents the **Data Visualization** phase of the **Global Tourism Statistics** project — following the  
-[Data Warehouse (DWH)](https://github.com/Daniele1388/DWH---Global-Tourism-Project) and  
-[Exploratory Data Analysis (EDA)](https://github.com/Daniele1388/EDA---Global-Tourism-Project) phases,  
-and preceding the  
-[Advanced Analytics](https://github.com/Daniele1388/ADVANCED-ANALYTICS---Global-Tourism-Project) layer.  
+This repository represents the **Data Visualization** phase of the **Global Tourism Statistics** project. 
+It follows the  
+[Data Warehouse (DWH)](https://github.com/Daniele1388/DWH---Global-Tourism-Project), 
+[Exploratory Data Analysis (EDA)](https://github.com/Daniele1388/EDA---Global-Tourism-Project),   
+[Advanced Analytics](https://github.com/Daniele1388/ADVANCED-ANALYTICS---Global-Tourism-Project).  
 
 While the **DWH** defines the data structure and the **EDA** validates data quality and consistency,  
 this **Visualization phase** focuses on translating structured tourism indicators into clear visual trends.
